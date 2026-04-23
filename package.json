@@ -70,7 +70,7 @@
     "semver": "^7.3.4",
     "update-dotenv": "^1.1.1",
     "update-notifier": "^5.0.1",
-    "uuid": "^8.3.2"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@tsconfig/node10": "^1.0.7",
